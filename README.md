@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://i.pinimg.com/564x/ef/db/32/efdb32e6c63c15ab42ca6d37200d391f.jpg", width="500", height="500">
+</p>
+
 # Nighty-Key-Stealer
 
 ## Notes
